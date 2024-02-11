@@ -59,7 +59,7 @@ The `config.py` file contains configuration parameters such as time intervals, d
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/edge-yolo-video-streaming.git
+   git clone https://github.com/mycareer6107/Edge-YOLO-Video-Streaming-Python-Backend.git
 
 # Contributors
 - Muhammad Atif Rafique
